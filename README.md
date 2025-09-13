@@ -1,5 +1,4 @@
-![Banner](https://github.com/VIDADEROCK/vidaderock/raw/main/banner.png)
-<!-- Asegúrate de subir tu imagen al repo con el nombre "banner.png" -->
+
 
 ---
 
@@ -23,8 +22,3 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIDADEROCK/VIDADEROCK/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIDADEROCK/VIDADEROCK/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VIDADEROCK/VIDADEROCK/output/pacman-contribution-graph.svg">
-</picture>
